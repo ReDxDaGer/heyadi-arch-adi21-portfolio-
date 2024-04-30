@@ -524,7 +524,7 @@ const experience = {
   title: "Experience",
   subtitle: "Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Leverage my skills in Python, data science, ML & web development as a Freelance Python Tutor, ML Intern, and Full-Stack Developer. Built a music streaming website, predicted user recipe ratings, performed market segmentation, and created an end-to-end text summarizer using NLP & Google Pegasus transformer. Lead technical & design communities at Google Developer Students' Club & COSMOS Tech Society, while founding Quantum E-Design Club to train 100+ students in AI design. Currently pursuing a B.S. in Data Science & Application at IIT Madras.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -582,37 +582,37 @@ const experience = {
           color: "#4285F4",
         },
         {
-          title: "Microsoft Student Partner",
-          company: "Microsoft",
-          company_url: "https://www.microsoft.com/",
+          title: "Kanha House Secretry",
+          company: "Kanha House IIT Madras",
+          company_url: "https://kanha.iitmbs.org",
           logo_path: "Kanha_Logo.png",
-          duration: "Aug 2019 - May 2020",
-          location: "Hyderabad, Telangana",
+          duration: "Sep 2022 - present",
+          location: "Chennai, India",
           description:
-            "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
+            "Lead a team of 50+ people and managed 3k+ students under a democratic administration role",
           color: "#D83B01",
         },
         {
-          title: "Mozilla Campus Captain",
-          company: "Mozilla",
-          company_url: "https://www.mozilla.org/",
+          title: "Founder of Quantum E-Design Club",
+          company: "Quantum E-Design Club",
+          company_url: "https://iitmtechsociety.org/",
           logo_path: "quant.jpeg",
-          duration: "Oct 2019 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          duration: "Sep 2023 - present",
+          location: "Chennai, India",
           description:
-            "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
+            "Trained 100+ students on the AI aspect of designing contents , graphics , animations and prints",
           color: "#000000",
         },
         {
-          title: "Developer Students Club Member",
-          company: "DSC IIITDM Kurnool",
+          title: "Design Lead at COSMOS Tech Society",
+          company: "COSMOS Tech Society",
           company_url:
-            "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
+            "https://www.linkedin.com/company/iitmtechsociety/",
           logo_path: "cosmos.jpeg",
-          duration: "Jan 2018 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          duration: "Nov 2023 - present",
+          location: "Chennai, India",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+            "Started as a core member , created awareness about integration of AI tools in graphic design",
           color: "#0C9D58",
         },
         {
@@ -647,27 +647,27 @@ const publicationsHeader = {
 
 const publications = {
   data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
+    // {
+    //   id: "neuro-symbolic-sudoku-solver",
+    //   name: "Neuro-Symbolic Sudoku Solver",
+    //   createdAt: "2023-07-02T00:00:00Z",
+    //   description: "Paper published in KDD KiML 2023",
+    //   url: "https://arxiv.org/abs/2307.00653",
+    // },
+    // {
+    //   id: "mdp-diffusion",
+    //   name: "MDP-Diffusion",
+    //   createdAt: "2023-09-19T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/mdp-diffusion/",
+    // },
+    // {
+    //   id: "consistency-models",
+    //   name: "Consistency Models",
+    //   createdAt: "2023-10-12T00:00:00Z",
+    //   description: "Blog published in Paperspace",
+    //   url: "https://blog.paperspace.com/consistency-models/",
+    // },
   ],
 };
 
@@ -683,7 +683,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "#",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
